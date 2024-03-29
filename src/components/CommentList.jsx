@@ -53,6 +53,7 @@ const MessageDiv = styled.div`
   overflow: hidden;
   padding-top: 10px;
   padding-right: 20px;
+  background:blue;
 `;
 
 const AuthorSpan = styled.span`
